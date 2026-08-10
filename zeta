@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS BOXEO" tvg-logo="http://velive.lat:8080/images/channels_image/26557457518.jpg" group-title="🥊 | UFC PREMIUM",EVENTOS BOXEO
-http://miotv.cc:8080/Z1B2eThOQ2tsZWIzV1R2UWhMVCtkaHd4WE9QWi9xSlRPY1hEWE05NHdIbz0
-#EXTINF:-1 tvg-id="" tvg-name="USA: UFC Channel" tvg-logo="http://velive.lat:8080/images/channels_image/87167762107.jpg" group-title="🥊 | UFC PREMIUM",USA: UFC Channel
-http://miotv.cc:8080/aDI0Ym5LY3hlZDgrUlp3dzZhN3h5L29DL2dkL3Q2ZU5vZDdJOGw5WmdtMD0
-#EXTINF:-1 tvg-id="" tvg-name="Eventos ufc - boxeo" tvg-logo="http://velive.lat:8080/images/channels_image/11473141850.jpg" group-title="🥊 | UFC PREMIUM",Eventos ufc - boxeo
-http://miotv.cc:8080/VnA2K0J4T0d0VXNiblRBeVkzM3NFVXZVSExWZmw5UVovOW9sZTRGRnB1QT0
 #EXTINF:-1 tvg-id="" tvg-name="FOX UFC EVENTOS" tvg-logo="http://velive.lat:8080/images/channels_image/15782804617.jpg" group-title="🥊 | UFC PREMIUM",FOX UFC EVENTOS
 http://miotv.cc:8080/VnA2K0J4T0d0VXNiblRBeVkzM3NFV3QvWEtycWFQcmkvMlFFVERUTVF1QT0
 #EXTINF:-1 tvg-id="" tvg-name="ESPN UFC EVENTOS" tvg-logo="http://velive.lat:8080/images/channels_image/39579483973.jpg" group-title="🥊 | UFC PREMIUM",ESPN UFC EVENTOS
